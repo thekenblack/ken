@@ -22,7 +22,7 @@ rm -rf .repair
 
 sync $@
 
-cd .obsidian && sync $@ && cd ..
-cd .vscode && sync $@ && cd ..
+cd .obsidian && sync && cd ..
+cd .vscode && sync && cd ..
 
 fi
