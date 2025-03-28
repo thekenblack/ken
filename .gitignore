@@ -3,3 +3,5 @@
 /.vscode
 /.trash
 /.repair
+
+**/Cargo.lock
