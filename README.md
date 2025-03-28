@@ -13,17 +13,17 @@
 
 ## Index
 
-| Path            | Title                                              |
-| --------------- | -------------------------------------------------- |
-| `c-lang`        | [C Programming Language](<./c-lang/README.md>)     |
-| `c_inc`         | [C Standard Headers](<./c_inc/README.md>)          |
-| `cc-lang`       | [C++ Programming Language](<./cc-lang/README.md>)  |
-| `cc_inc`        | [C++ Standard Headers](<./cc_inc/README.md>)       |
-| `cc_std`        | [C++ Standard Library](<./cc_std/README.md>)       |
-| `code`          | [Computer Programming](<./code/README.md>)         |
-| `docs`          | [Markdown Document](<./docs/README.md>)            |
-| `home`          | [Home](<./home/README.md>)                         |
-| `ja-language`   | [Japanese Language](<./ja-language/README.md>)     |
-| `ja_characters` | [Japanese Characters](<./ja_characters/README.md>) |
-| `rs-lang`       | [Rust Programming Language](<./rs-lang/README.md>) |
-| `rs_std`        | [Rust Standard Library](<./rs_std/README.md>)      |
+| Path       | Title                                              |
+| ---------- | -------------------------------------------------- |
+| `c-code`   | [C Programming Language](<./c-code/README.md>)     |
+| `c_inc`    | [C Standard Headers](<./c_inc/README.md>)          |
+| `cc-code`  | [C++ Programming Language](<./cc-code/README.md>)  |
+| `cc_inc`   | [C++ Standard Headers](<./cc_inc/README.md>)       |
+| `cc_std`   | [C++ Standard Library](<./cc_std/README.md>)       |
+| `code`     | [Computer Programming](<./code/README.md>)         |
+| `docs`     | [Markdown Document](<./docs/README.md>)            |
+| `home`     | [Home](<./home/README.md>)                         |
+| `ja-lang`  | [Japanese Language](<./ja-lang/README.md>)         |
+| `ja_chars` | [Japanese Characters](<./ja_chars/README.md>)      |
+| `rs-code`  | [Rust Programming Language](<./rs-code/README.md>) |
+| `rs_std`   | [Rust Standard Library](<./rs_std/README.md>)      |
