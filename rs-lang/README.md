@@ -1,5 +1,5 @@
 
-# Rust
+# Rust Programming Language
 
 | Path    | Title                        |
 | ------- | ---------------------------- |
