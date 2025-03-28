@@ -1,8 +1,8 @@
 
 # Ken
 
-- [Home](<./home/README.md>) (Home Shorcut)
-- [Home (en)](<./home/en.md>) (English Home Shorcut)
+- [Home](<./home/README.md>) (Home Shortcut)
+- [Home (en)](<./home/en.md>) (English Shortcut)
 
 ## About
 
