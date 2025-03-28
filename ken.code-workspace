@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "ken"
+		},
+		{
+			"path": "../system"
+		},
+		{
+			"path": "../static"
+		},
+		{
+			"path": "../server"
+		},
+		{
+			"path": "../client"
+		},
+	],
+	"settings": {
+		"explorer.sortOrder": "filesFirst",
+		"explorer.sortOrderLexicographicOptions": "unicode"
+	}
+}
