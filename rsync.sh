@@ -1,6 +1,5 @@
 
 sync() {
-
 if [ $# -eq 0 ]; then
     msg="sync repository"
 else
@@ -17,7 +16,7 @@ git push
 if git clone https://github.com/kendono/kendono .repair; then
 
 rm -rf .git
-mv .repair/.git
+mv .repair/.git .git
 rm -rf .repair
 
 sync $@
