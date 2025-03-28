@@ -15,5 +15,4 @@ git push
 
 sync $@
 
-cd .obsidian && sync && cd ..
-cd .vscode && sync && cd ..
+cd .obsidian && sync
