@@ -2,7 +2,7 @@
 # Ken
 
 - [Home](<./home/README.md>) (Home Shortcut)
-- [Home (en)](<./home/en.md>) (English Shortcut)
+- [Home (en)](<./home/en.md>) (Default Shortcut)
 
 ## About
 
