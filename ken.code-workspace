@@ -19,6 +19,15 @@
 	],
 	"settings": {
 		"explorer.sortOrder": "filesFirst",
-		"explorer.sortOrderLexicographicOptions": "unicode"
+		"explorer.sortOrderLexicographicOptions": "unicode",
+		"files.exclude": {
+			"**/.build": true,
+			"**/build": true,
+			"**/Cargo.lock": true,
+			"**/target": true
+		},
+		"vscode_custom_css.imports": [
+			"file:///${env:USERPROFILE}${env:HOME:/GitHub}/ken/.vscode/custom.css",
+		]
 	}
 }

@@ -4,3 +4,8 @@
 /.repair
 
 **/Cargo.lock
+**/.target
+**/target
+
+**/.build
+**/build
