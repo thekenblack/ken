@@ -14,10 +14,10 @@
 ## Setup
 
 - Common
-  - [Git](https://git-scm.com/) (Source code management)
-  - [VS Code](https://code.visualstudio.com/) (Code editing)
-  - [Obsidian](https://obsidian.md/) (Docs editing)
-  - [Docker](https://www.docker.com/) (Development environment)
+  - [Git](https://git-scm.com/) (source code management)
+  - [VS Code](https://code.visualstudio.com/) (code editing)
+  - [Obsidian](https://obsidian.md/) (docs editing)
+  - [Docker](https://www.docker.com/) (development environment)
 - Unix
   - (optional) [code-server](https://github.com/coder/code-server)
 - Windows
