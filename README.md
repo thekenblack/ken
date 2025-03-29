@@ -13,9 +13,12 @@
 
 ## Setup
 
-- [Git](https://git-scm.com/)
-- [VS Code](https://code.visualstudio.com/)
-- [Obsidian](https://obsidian.md/)
+- Common
+  - [Git](https://git-scm.com/)
+  - [VS Code](https://code.visualstudio.com/)
+  - [Obsidian](https://obsidian.md/)
+- Unix
+  - (optional) [code-server](https://github.com/coder/code-server)
 - Windows
   - [MSYS2](https://www.msys2.org/)
 - Android
