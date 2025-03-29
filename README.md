@@ -20,9 +20,9 @@
 - Unix
   - (optional) [code-server](https://github.com/coder/code-server)
 - Windows
-  - [MSYS2](https://www.msys2.org/) (Unix packages)
+  - [MSYS2](https://www.msys2.org/) (Unix packages for Windows)
 - Android
-  - [Termux](https://termux.dev/en/) (Android Terminal)
+  - [Termux](https://termux.dev/en/) (Unix Terminal for Android)
 
 ## Clone
 
