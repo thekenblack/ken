@@ -17,7 +17,7 @@
   - [Git](https://git-scm.com/) (source code management)
   - [VS Code](https://code.visualstudio.com/) (code editing)
   - [Obsidian](https://obsidian.md/) (markdown editing)
-  - [Docker](https://www.docker.com/) (development environment)
+  - (optional) [Docker](https://www.docker.com/) (development environment)
 - Unix
   - (optional) [code-server](https://github.com/coder/code-server) (coding with browsers)
 - Windows
