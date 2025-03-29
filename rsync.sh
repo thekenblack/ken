@@ -1,7 +1,7 @@
 
 sync() {
 if [ $# -eq 0 ]; then
-    msg="sync repository"
+    msg="sync repo"
 else
     msg="$@"
 fi
