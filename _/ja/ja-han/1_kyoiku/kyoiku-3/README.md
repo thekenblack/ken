@@ -1,2 +1,0 @@
-
-# Kyoiku Kanji 3

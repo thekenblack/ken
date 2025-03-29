@@ -1,9 +1,0 @@
-
-# Japanese Han Characters
-
-|  #  |   Category   |                                                                                                                                           Entries                                                                                                                                            |
-| :-: | :----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  1  | Kyoiku Kanji | [Kyoiku Kanji 1](<./1_kyoiku/kyoiku-1/README.md>)<br>[Kyoiku Kanji 2](<./1_kyoiku/kyoiku-2/README.md>)<br>[Kyoiku Kanji 3](<./1_kyoiku/kyoiku-3/README.md>)<br>[Kyoiku Kanji 4](<./1_kyoiku/kyoiku-4/README.md>)<br>[Kyoiku Kanji 5](<./1_kyoiku/kyoiku-5/README.md>)<br>[Kyoiku Kanji 6](<./1_kyoiku/kyoiku-6/README.md>) |
-|  2  |  Joyo Kanji  |                                                         [Joyo Kanji 1](<./2_joyo/joyo-1/README.md>)<br>[Joyo Kanji 2](<./2_joyo/joyo-2/README.md>)<br>[Joyo Kanji 3](<./2_joyo/joyo-3/README.md>)<br>[Joyo Kanji 4](<./2_joyo/joyo-4/README.md>)                                                         |
-|  3  | Kanken Kanji |                                                                                                 [JIS Level 1](<./3_kanken/jis-1/README.md>)<br>[JIS Level 2](<./3_kanken/jis-2/README.md>)                                                                                                 |
-|  4  |  JIS Kanji   |                                                                                                       [JIS Level 3](<./4_jis/jis-3/README.md>)<br>[JIS Level 4](<./4_jis/jis-4/README.md>)                                                                                                       |

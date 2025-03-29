@@ -1,2 +1,0 @@
-
-# JIS Level 1
