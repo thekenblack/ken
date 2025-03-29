@@ -6,7 +6,7 @@
 
 ## About
 
-- [X Account](https://x.com/ken_dono_) (major announcements)
+- [X Account](https://x.com/ken_dono_) (official announcements)
 - [X Bot Account](https://x.com/ken_auto_) (minor updates)
 - [GitHub Profile](https://github.com/kendono) (dev profile)
 - [Discord Server](https://discord.gg/jhJ64HDRSX) (user discussions)
