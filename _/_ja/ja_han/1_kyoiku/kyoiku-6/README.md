@@ -1,0 +1,2 @@
+
+# Kyoiku Kanji 6
