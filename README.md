@@ -22,7 +22,7 @@
 - Windows
   - [MSYS2](https://www.msys2.org/) (Unix packages)
 - Android
-  - [Termux](https://termux.dev/en/) (Terminal)
+  - [Termux](https://termux.dev/en/) (Android Terminal)
 
 ## Clone
 
