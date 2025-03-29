@@ -17,6 +17,7 @@
   - [Git](https://git-scm.com/)
   - [VS Code](https://code.visualstudio.com/)
   - [Obsidian](https://obsidian.md/)
+  - [Docker](https://www.docker.com/)
 - Unix
   - (optional) [code-server](https://github.com/coder/code-server)
 - Windows
