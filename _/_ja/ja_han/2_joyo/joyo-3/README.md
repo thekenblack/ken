@@ -1,2 +1,5 @@
 
 # Joyo Kanji 3
+
+| Rad. | Str. | Glyph | Meaning | On  | Kun<br>(Alone) | Kun<br>(Base) | Kun<br>(Kana) |
+| :--: | :--: | :---: | :-----: | :-: | :------------: | :-----------: | :-----------: |
