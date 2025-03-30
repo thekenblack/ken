@@ -1,8 +1,8 @@
 
 # Ken
 
-- [Index](<./_/README.md>) (index of contents)
-- [Home](<./_/_/README.md>) (default home)
+- [Index](_/README.md) (index of contents)
+- [Home](_/_/README.md) (default home)
 
 ## About
 
