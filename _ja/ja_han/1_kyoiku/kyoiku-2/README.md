@@ -10,5 +10,3 @@ cssclasses:
 	- [Kyoiku Kanji 2 (ko-kr)](<./ko-kr.md>)
 
 # Kyoiku Kanji 2
-
-*Contents Pending*
