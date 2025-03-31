@@ -18,7 +18,7 @@
 | `_zh-cn` | [Home (zh-cn)](<./_zh-cn/README.md>) |
 | `_zh-hk` | [Home (zh-hk)](<./_zh-hk/README.md>) |
 | `_zh-tw` | [Home (zh-tw)](<./_zh-tw/README.md>) |
-| `batch`  | [Batch](<./batch/README.md>)         |
+| `batch`  | [Batch](<./bat/README.md>)         |
 | `c`      | [C](<./c/README.md>)                 |
 | `cc`     | [C++](<./cc/README.md>)              |
 | `cs`     | [CSharp](<./cs/README.md>)           |

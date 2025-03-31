@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "ken"
+		},
+		{
+			"path": "../scripts"
+		},
+		{
+			"path": "../snippets"
+		},
+		{
+			"path": "../projects"
+		},
+		{
+			"path": "../webviews"
+		},
+		{
+			"path": "../websites"
+		},
+	],
+	"settings": {
+		"explorer.sortOrder": "filesFirst",
+		"explorer.sortOrderLexicographicOptions": "unicode",
+		"files.exclude": {
+			"**/.build": true,
+			"**/build": true,
+			"**/Cargo.lock": true,
+			"**/target": true
+		},
+		"explorer.compactFolders": false,
+		"workbench.tree.expandMode": "doubleClick",
+		"workbench.list.openMode": "doubleClick"
+	}
+}
