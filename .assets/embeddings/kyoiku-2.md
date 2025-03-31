@@ -1,0 +1,4 @@
+- Original version:
+	- [Kyoiku Kanji 2](<../../_ja/ja_han/1_kyoiku/kyoiku-2/README.md>)
+- Different versions:
+	- [Kyoiku Kanji 2 (ko)](<../../_ja/ja_han/1_kyoiku/kyoiku-2/ko.md>)

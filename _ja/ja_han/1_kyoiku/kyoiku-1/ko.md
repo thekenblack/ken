@@ -4,14 +4,9 @@ cssclasses:
   - cell3size2
 ---
 
-- Original version:
-	- [Kyoiku Kanji 1](<./README.md>)
-- Different versions:
-	- [Kyoiku Kanji 1 (ko-kr)](<./ko-kr.md>)
+![kyoiku-1](<../../../../.assets/embeddings/kyoiku-1.md>)
 
----
-
-# Kyoiku Kanji 1 (ko-kr)
+# Kyoiku Kanji 1 (ko)
 
 - 차이점:
 	- 'Glyph'에 대한 'Meaning'을 'Hun', 'Eum'으로 대체. 'Meaning'과 직접적으로 대응하는 건 훈이다. 그러니까 결국 추가된 것은 '음'밖에 없다고 보면 된다.

@@ -4,12 +4,9 @@ cssclasses:
   - cell3size2
 ---
 
-- Original Version:
-	- [Kyoiku Kanji 2](<./README.md>)
-- Different Versions:
-	- [Kyoiku Kanji 2 (ko-kr)](<./ko-kr.md>)
+![kyoiku-2](<../../../../.assets/embeddings/kyoiku-2.md>)
 
-# Kyoiku Kanji 2 (ko-kr)
+# Kyoiku Kanji 2 (ko)
 
 | Rad | Str | Glyph | Kyu |    Hun     |   Eum    |        On         | Kun<br>(Alone) |                 Kun<br>(Base)                 |                   Kun<br>(Kana)                   |                         Meaning<br>(Base-Kana)                          |   Note    |
 | :-: | :-: | :---: | :-: | :--------: | :------: | :---------------: | :------------: | :-------------------------------------------: | :-----------------------------------------------: | :---------------------------------------------------------------------: | :-------: |
