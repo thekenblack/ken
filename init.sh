@@ -1,5 +1,5 @@
 
 export ROOT=$(pwd)
 
-export PATH=$PATH:$ROOT
-export PATH=$PATH:$ROOT/_sh
+export PATH=$PATH:$ROOT/../scripts
+export PATH=$PATH:~/scripts

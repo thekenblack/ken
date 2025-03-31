@@ -5,13 +5,13 @@
 			"name": "ken"
 		},
 		{
-			"path": "../system"
+			"path": "../scripts"
 		},
 		{
-			"path": "../static"
+			"path": "../snippets"
 		},
 		{
-			"path": "../server"
+			"path": "../projects"
 		},
 		{
 			"path": "../engine"
