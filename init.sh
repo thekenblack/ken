@@ -5,4 +5,8 @@ cd ..
 
 export ROOT=$(pwd)
 
-export PATH=$PATH:$(pwd)/scripts
+export scripts=$ROOT/scripts
+export PATH=$PATH:$scripts
+
+export snippets=$ROOT/snippets
+export projects=$ROOT/projects
