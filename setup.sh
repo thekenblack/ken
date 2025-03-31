@@ -6,8 +6,6 @@ clone() {
 clone .obsidian
 cd ..
 
-clone system
-clone static
-clone server
-clone engine
-clone client
+clone scripts
+clone snippets
+clone projects

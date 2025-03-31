@@ -13,12 +13,6 @@
 		{
 			"path": "../projects"
 		},
-		{
-			"path": "../engine"
-		},
-		{
-			"path": "../client"
-		},
 	],
 	"settings": {
 		"explorer.sortOrder": "filesFirst",
@@ -31,6 +25,9 @@
 		},
 		"vscode_custom_css.imports": [
 			"file:///${env:USERPROFILE}${env:HOME:/GitHub}/ken/.vscode/custom.css",
-		]
+		],
+		"explorer.compactFolders": false,
+		"workbench.tree.expandMode": "doubleClick",
+		"workbench.list.openMode": "doubleClick"
 	}
 }

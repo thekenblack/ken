@@ -1,27 +1,27 @@
 
 # Ken
 
-- [Index](_/README.md) (index of contents)
-- [Home](_/_/README.md) (default home)
+- [Index](/index.md) (Index of Contents)
+- [Home](/_/README.md) (Default Home)
 
 ## About
 
-- [X Account](https://x.com/ken_dono_) (official announcements)
-- [X Bot Account](https://x.com/ken_auto_) (minor updates)
-- [GitHub Profile](https://github.com/kendono) (dev profile)
-- [Discord Server](https://discord.gg/jhJ64HDRSX) (user discussions)
+- [X Account](https://x.com/ken_dono_) (Official Announcements)
+- [X Bot Account](https://x.com/ken_auto_) (Minor Updates)
+- [GitHub Profile](https://github.com/kendono) (Dev Profile)
+- [Discord Server](https://discord.gg/jhJ64HDRSX) (User Discussions)
 - Static Website (not yet prepared)
 - Server Website (not yet prepared)
 
 ## Setup
 
 - Common
-  - [Git](https://git-scm.com/) (source code management)
-  - [VS Code](https://code.visualstudio.com/) (code editing)
-  - [Obsidian](https://obsidian.md/) (markdown editing)
-  - (optional) [Docker](https://www.docker.com/) (development environment)
+  - [Git](https://git-scm.com/) (Source Code Management)
+  - [VS Code](https://code.visualstudio.com/) (Code Editing)
+  - [Obsidian](https://obsidian.md/) (Markdown Editing)
+  - (optional) [Docker](https://www.docker.com/) (Development Environment)
 - Unix
-  - (optional) [code-server](https://github.com/coder/code-server) (coding with browsers)
+  - (optional) [code-server](https://github.com/coder/code-server) (Coding via Browsers)
 - Windows
   - [MSYS2](https://www.msys2.org/) (Unix packages for Windows)
 - Android
