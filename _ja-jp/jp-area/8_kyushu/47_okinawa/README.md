@@ -1,2 +1,6 @@
+---
+aliases:
+  - Okinawa
+---
 
-# Okinawa
+# Okinawa Island
