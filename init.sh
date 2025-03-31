@@ -1,5 +1,8 @@
 
+export WORK=$(pwd)
+
+cd ..
+
 export ROOT=$(pwd)
 
-export PATH=$PATH:$ROOT/../scripts
-export PATH=$PATH:~/scripts
+export PATH=$PATH:$(pwd)/scripts
