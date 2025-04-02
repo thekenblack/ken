@@ -2,6 +2,8 @@
 cssclasses:
   - cell1size1h
   - cell3size2
+aliases:
+  - Kyoiku 1
 ---
 
 ![kyoiku-1](<../../../../.assets/embeddings/kyoiku-1.md>)

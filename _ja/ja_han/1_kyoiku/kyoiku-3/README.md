@@ -2,6 +2,8 @@
 cssclasses:
   - cell1size1h
   - cell3size2
+aliases:
+  - Kyoiku 3
 ---
 
 # Kyoiku Kanji 3

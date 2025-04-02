@@ -2,6 +2,8 @@
 cssclasses:
   - cell1size1h
   - cell3size2
+aliases:
+  - Kyoiku 4
 ---
 
 # Kyoiku Kanji 4
