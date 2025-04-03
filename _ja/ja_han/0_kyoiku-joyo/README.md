@@ -1,4 +1,0 @@
-
-# Kyoiku & Joyo Kanji
-
-

@@ -1,6 +1,13 @@
 
 # Japanese Han Characters
 
+- [Full Joyo Kanji](<./0_full-joyo/README.md>)
+	- Kyoiku Kanji: Kyoiku Kanji 1~6 (Kanken 10~5)
+	- Joyo Kanji: Joyo Kanji 1~4 (Kanken 4~2)
+- [Full JIS Kanji](<./0_full_jis/README.md>)
+	- Kanken Kanji: JIS Level 1~2 (Kanken 1.5~1)
+	- JIS Kanji: JIS Level 3~4
+
 | Index |                Category                |                                                                                                                                                          Entries                                                                                                                                                           |                 Each                  |                  New                  |                  Sub                   |                 Total                  |
 | :---: | :------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------: | :-----------------------------------: | :------------------------------------: | :------------------------------------: |
 |   1   | [Kyoiku Kanji](<./1_kyoiku/README.md>) | [Kyoiku Kanji 1](<./1_kyoiku/kyoiku-1/README.md>)<br>[Kyoiku Kanji 2](<./1_kyoiku/kyoiku-2/README.md>)<br>[Kyoiku Kanji 3](<./1_kyoiku/kyoiku-3/README.md>)<br>[Kyoiku Kanji 4](<./1_kyoiku/kyoiku-4/README.md>)<br>[Kyoiku Kanji 5](<./1_kyoiku/kyoiku-5/README.md>)<br>[Kyoiku Kanji 6](<./1_kyoiku/kyoiku-6/README.md>) | 80<br>160<br>200<br>202<br>193<br>191 | 80<br>160<br>200<br>202<br>193<br>191 | 80<br>240<br>440<br>642<br>835<br>1026 | 80<br>240<br>440<br>642<br>835<br>1026 |
