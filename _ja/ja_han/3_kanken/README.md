@@ -3,10 +3,10 @@
 
 - JIS Level 1 (Kanken Kanji 1)
 	- Face 1 Row 16~46
-	- Face 1 Row 47 Point 01~51
+	- Face 1 Row 47 Point 01~51 (Count 51)
 - JIS Level 2 (Kanken Kanji 2)
 	- Face 1 Row 48~83
-	- Face 1 Row 84 Point 01~06
+	- Face 1 Row 84 Point 01~06 (Count 06)
 
 | Index |                    JIS Level 1                     | Count | Total |                    JIS Level 2                     | Count | Total |
 | :---: | :------------------------------------------------: | :---: | :---: | :------------------------------------------------: | :---: | :---: |

@@ -5,8 +5,7 @@
 	- Face 1 Row 14~15
 	- Face 1 Row 47 Point 52~94 (Count 43)
 	- Face 1 Row 84 Point 07~94 (Count 88)
-	- Face 1 Row 85~93
-	- Face 1 Row 94 Point 01~86 (Count 86)
+	- Face 1 Row 85~94
 - JIS Level 4 (JIS Kanji 2)
 	- Face 2 Row 01
 	- Face 2 Row 03~05
