@@ -2,6 +2,7 @@
 /.obsidian
 /.trash
 /.repair
+/.task
 
 **/Cargo.lock
 **/.target
