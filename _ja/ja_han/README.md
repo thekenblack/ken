@@ -7,6 +7,7 @@
 - [Full JIS Kanji](<./0_full_jis/README.md>)
 	- Kanken Kanji: JIS Level 1~2 (Kanken 1.5~1)
 	- JIS Kanji: JIS Level 3~4
+- [Appendix: Special Readings](<./appendix/README.md>)
 
 > Note
 > 
