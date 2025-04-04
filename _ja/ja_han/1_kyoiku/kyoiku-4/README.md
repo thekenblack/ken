@@ -6,6 +6,8 @@ aliases:
   - Kyoiku 4
 ---
 
+![kyoiku-4](<../../../../.assets/embeddings/kyoiku-4.md>)
+
 # Kyoiku Kanji 4
 
 | Rad | Str | Glyph | Kyu |         On         |    Kun    |               Base               |                  Kana                  |
