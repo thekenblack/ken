@@ -1,0 +1,3 @@
+- [Japanese Han Characters](<../../../../_ja/ja_han/README.md>)
+	- [Joyo Kanji 3](<../../../../_ja/ja_han/2_joyo/joyo-3/README.md>)
+		- [Joyo Kanji 3 (ko)](<../../../../_ja/ja_han/2_joyo/joyo-3/ko.md>)

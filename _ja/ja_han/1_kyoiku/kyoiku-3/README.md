@@ -6,7 +6,7 @@ aliases:
   - Kyoiku 3
 ---
 
-![kyoiku-3](<../../../../.assets/embeddings/kyoiku-3.md>)
+![kyoiku-3](<../../../../.assets/embeddings/ja_han/1_kyoiku/kyoiku-3.md>)
 
 # Kyoiku Kanji 3
 
