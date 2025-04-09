@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - cell3size2
-  - cell5size1h
 ---
 
 # Appendix: Japanese Radicals
