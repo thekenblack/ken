@@ -1,3 +1,3 @@
 
-# South Korean Language
+# Korean Language (South Korea)
 

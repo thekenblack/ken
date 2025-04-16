@@ -1,2 +1,2 @@
 
-# North Korean Language
+# Korean Language (North Korea)

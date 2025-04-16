@@ -9,4 +9,4 @@
 	- Japanese (Japan)
 		- [Japanese Han Characters](<../../_ja/ja_han/README.md>)
 	- Korean (South Korea)
-		- [Korean Han Characters](<../../_ko/ko_han/README.md>)
+		- [Korean Han Characters](<../../_ko/ko-han/README.md>)
