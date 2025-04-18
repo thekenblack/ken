@@ -6,7 +6,7 @@ aliases:
   - Kyoiku 4
 ---
 
-![kyoiku-4](<../../../.assets/embeddings/ja_han/1_kyoiku/kyoiku-4.md>)
+![kyoiku-4](<../../../../.assets/embeddings/ja_han/1_kyoiku/kyoiku-4.md>)
 
 # Kyoiku Kanji 4
 

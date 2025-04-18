@@ -1,3 +1,3 @@
 - [Japanese Han Characters](<../../../../_ja/ja_han/README.md>)
-	- [Kyoiku Kanji 6](<../../../../han-ja/1_kyoiku/kyoiku-6/README.md>)
-		- [Kyoiku Kanji 6 (ko)](<../../../../han-ja/1_kyoiku/kyoiku-6/ko.md>)
+	- [Kyoiku Kanji 6](<../../../../_/han-ja/1_kyoiku/kyoiku-6/README.md>)
+		- [Kyoiku Kanji 6 (ko)](<../../../../_/han-ja/1_kyoiku/kyoiku-6/ko.md>)

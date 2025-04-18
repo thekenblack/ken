@@ -6,7 +6,7 @@ aliases:
   - Kyoiku 1
 ---
 
-![kyoiku-1](<../../../.assets/embeddings/ja_han/1_kyoiku/kyoiku-1.md>)
+![kyoiku-1](<../../../../.assets/embeddings/ja_han/1_kyoiku/kyoiku-1.md>)
 
 # Kyoiku Kanji 1
 
