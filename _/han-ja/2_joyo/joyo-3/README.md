@@ -4,6 +4,8 @@ cssclasses:
   - cell3size2
 ---
 
+![joyo\_3](<../../../../.assets/embeddings/han-ja/2_joyo/joyo_3.md>)
+
 # Joyo Kanji 3
 
 | Rad | Str | Glyph | Kyu |     On     |    Kun     |         Base         |         Kana          |

@@ -4,7 +4,7 @@ cssclasses:
   - cell3size2
 ---
 
-![kyoiku-4](<../../../../.assets/embeddings/ja_han/1_kyoiku/kyoiku-4.md>)
+![kyoiku\_4](<../../../../.assets/embeddings/han-ja/1_kyoiku/kyoiku_4.md>)
 
 # Kyoiku Kanji 4 (ko)
 
