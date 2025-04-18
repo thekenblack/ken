@@ -1,2 +1,0 @@
-
-# Simplified Han Characters

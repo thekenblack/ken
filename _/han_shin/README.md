@@ -1,2 +1,0 @@
-
-# Shinjitai Han Characters
