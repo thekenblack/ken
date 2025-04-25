@@ -6,10 +6,8 @@
 
 ## About
 
-- [X Account](https://x.com/ken_dono_) (Official Announcements)
-- [X Bot Account](https://x.com/ken_auto_) (Minor Updates)
-- [GitHub Profile](https://github.com/kendono) (Dev Profile)
-- [Discord Server](https://discord.gg/jhJ64HDRSX) (User Discussions)
+- [X Account](https://x.com/ken_dono_)
+- [Discord Server](https://discord.gg/jhJ64HDRSX)
 - Static Website (not yet prepared)
 - Server Website (not yet prepared)
 
