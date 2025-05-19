@@ -3,8 +3,6 @@
 
 ### Appendix - A
 
-Mostly daily-life words
-
 | Index |     Word     |    Reading   |
 | :---: | :----------: | :----------: |
 |   1   |      明日      |      あす      |
@@ -125,8 +123,6 @@ Mostly daily-life words
 |  116  |      若人      |     わこうど     |
  
 ### Appendix - B
-
-Mostly place names (Todofuken, 都道府県)
 
 | Index | Word | On-Kun | Reading |
 | :---: | :--: | :----: | :-----: |
