@@ -1,4 +1,4 @@
-- [Japanese Han Characters](<../../../../_/han-ja/README.md>)
-	- [Kyoiku Kanji 1](<../../../../_/han-ja/1_kyoiku/kyoiku-1/README.md>)
-		- [Kyoiku Kanji 1 (en)](<../../../../_/han-ja/1_kyoiku/kyoiku-1/en.md>)
-		- [Kyoiku Kanji 1 (ko)](<../../../../_/han-ja/1_kyoiku/kyoiku-1/ko.md>)
+- [Japanese Han Characters](<../../../../ja_han/README.md>)
+	- [Kyoiku Kanji 1](<../../../../ja_han/1_kyoiku/kyoiku-1/README.md>)
+		- [Kyoiku Kanji 1 (en)](<../../../../ja_han/1_kyoiku/kyoiku-1/en.md>)
+		- [Kyoiku Kanji 1 (ko)](<../../../../ja_han/1_kyoiku/kyoiku-1/ko.md>)
