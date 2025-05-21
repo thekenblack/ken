@@ -1,0 +1,2 @@
+
+# Chinese - Han Characters

@@ -1,2 +1,2 @@
 
-# South Korea (Country)
+# South Korea (Area)

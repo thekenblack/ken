@@ -1,2 +1,2 @@
 
-# Japan (Country)
+# Japan (Area)
