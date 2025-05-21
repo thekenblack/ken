@@ -3,7 +3,7 @@ cssclasses:
   - cell3size2
 ---
 
-# Appendix: Japanese Radicals
+# Appendix: Radicals
 
 | Str | Index | Glyph | Kanken | Var | Desc | Kanken |             Radical Name              |
 | :-: | :---: | :---: | :----: | :-: | :--: | :----: | :-----------------------------------: |

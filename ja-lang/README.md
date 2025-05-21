@@ -1,2 +1,2 @@
 
-# Japanese Language
+# Japanese (Language)

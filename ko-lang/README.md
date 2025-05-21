@@ -1,2 +1,2 @@
 
-# Korean Language
+# Korean (Language)

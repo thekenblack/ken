@@ -1,17 +1,9 @@
 
-# Japanese Han Characters
+# Japanese - Han Characters
 
-- [Full Joyo Kanji](<./full-joyo/README.md>)
-	- Kyoiku Kanji: Kyoiku Kanji 1~6 (Kanken 10~5)
-	- Joyo Kanji: Joyo Kanji 1~4 (Kanken 4~2)
-- [Full JIS Kanji](<./jis-full/README.md>)
-	- Kanken Kanji: JIS Level 1~2 (Kanken 1.5~1)
-	- JIS Kanji: JIS Level 3~4
-- [Appendix: Japanese Radicals](<./radicals/README.md>)
-- [Appendix: Special Readings](<./readings/README.md>)
+- [Appendix: Radicals](<./radicals/README.md>)
+- [Appendix: Readings](<./readings/README.md>)
 
-> Note
-> 
 > JIS Level 1 does not include all Joyo Kanji.
 > Kanken Level 2's 30 characters belong to JIS Level 2.
 > Also, JIS Level 1 and 2 might not exactly match to Kanken 1.5 and 1.
