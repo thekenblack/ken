@@ -1,7 +1,7 @@
 
 # Appendix: Readings
 
-## Readings - A
+## Appendix A
 
 | Index |     Word     |    Reading   |
 | :---: | :----------: | :----------: |
@@ -122,7 +122,7 @@
 |  115  |      寄席      |      よせ      |
 |  116  |      若人      |     わこうど     |
  
-## Readings - B
+## Appendix B
 
 | Index | Word | On-Kun | Reading |
 | :---: | :--: | :----: | :-----: |
