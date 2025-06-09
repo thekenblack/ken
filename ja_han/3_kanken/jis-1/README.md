@@ -18,7 +18,7 @@
 |  13   | [JIS Level 1 - Row 28](<./row-28/README.md>) |  5   |  94   | 1222  |
 |  14   | [JIS Level 1 - Row 29](<./row-29/README.md>) |  5   |  94   | 1316  |
 |  15   | [JIS Level 1 - Row 30](<./row-30/README.md>) |  5   |  94   | 1410  |
-|  16   | [JIS Level 1 - Row 31](<./row-31/README.md>) | ...  |  94   | 1504  |
+|  16   | [JIS Level 1 - Row 31](<./row-31/README.md>) |  5   |  94   | 1504  |
 |  17   | [JIS Level 1 - Row 32](<./row-32/README.md>) |  5   |  94   | 1598  |
 |  18   | [JIS Level 1 - Row 33](<./row-33/README.md>) | ...  |  94   | 1692  |
 |  19   | [JIS Level 1 - Row 34](<./row-34/README.md>) | ...  |  94   | 1786  |
